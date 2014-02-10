@@ -33,7 +33,7 @@ function deleteaccount_info()
 		"website"		=> "https://github.com/PenguinPaul/delete-account",
 		"author"		=> "MyBB Security Group",
 		"authorsite"	=> "http://www.mybbsecurity.net",
-		"version"		=> "1.0",
+		"version"		=> "1.1",
 		"guid" 			=> "",
 		"compatibility" => "*"
 	);
